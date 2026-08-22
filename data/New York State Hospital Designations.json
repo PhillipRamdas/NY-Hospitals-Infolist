@@ -1,0 +1,1112 @@
+{
+  "source": "New York State Health Profiles - Hospital Designated Centers",
+  "designation_categories": [
+    "AIDS Center",
+    "Burn Center",
+    "Comprehensive Stroke Center",
+    "Primary Stroke Center",
+    "Thrombectomy Capable Stroke Center",
+    "Level 1 Perinatal Center",
+    "Level 2 Perinatal Center",
+    "Level 3 Perinatal Center",
+    "Regional Perinatal Center",
+    "Level I Adult Trauma Center",
+    "Level I Adult & Pediatric Trauma Center",
+    "Level I Pediatric Trauma Center",
+    "SAFE Designated Hospital"
+  ],
+  "hospitals": [
+    {
+      "hospital": "Adirondack Medical Center-Saranac Lake Site",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Albany Medical Center Hospital",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Arnot Ogden Medical Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Auburn Community Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Bellevue Hospital Center",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "BronxCare Hospital Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Brooks-TLC Hospital System, Inc.",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Brookdale Hospital Medical Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Brooklyn Hospital Center - Downtown Campus",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Buffalo General Medical Center",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Canton-Potsdam Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Carthage Area Hospital Inc",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Cayuga Medical Center at Ithaca",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Chenango Memorial Hospital Inc",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Claxton-Hepburn Medical Campus",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Columbia Memorial Hospital",
+      "designations": [
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Community Memorial Hospital Inc",
+      "designations": [
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Corning Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Crouse Hospital",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Ellis Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Ellis Hospital - Bellevue Woman's Care Center",
+      "designations": [
+        "Level 2 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Erie County Medical Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Level I Adult Trauma Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "F.F. Thompson Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Flushing Hospital Medical Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Garnet Health Medical Center",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Garnet Health Medical Center - Catskills",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Geneva General Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Glen Cove Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Glens Falls Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Good Samaritan Hospital Medical Center",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level I Adult Trauma Center",
+        "Level 3 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Good Samaritan Hospital of Suffern",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Guthrie Cortland Medical Center",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Guthrie Lourdes Hospital",
+      "designations": [
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Harlem Hospital Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "HealthAlliance Hospital Mary's Avenue Campus",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Highland Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Huntington Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Interfaith Medical Center",
+      "designations": [
+        "AIDS Center"
+      ]
+    },
+    {
+      "hospital": "Jacobi Medical Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Level 3 Perinatal Center",
+        "Level I Pediatric Trauma Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Jamaica Hospital Medical Center",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level 3 Perinatal Center",
+        "Level I Adult & Pediatric Trauma Center"
+      ]
+    },
+    {
+      "hospital": "John T Mather Memorial Hospital of Port Jefferson",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Kenmore Mercy Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Kings County Hospital Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "SAFE Designated Hospital",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Kingsbrook Jewish Medical Village",
+      "designations": [
+        "AIDS Center"
+      ]
+    },
+    {
+      "hospital": "Lenox Hill Hospital",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Level 3 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Lewis County General Hospital",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Lincoln Medical & Mental Health Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Level I Adult Trauma Center",
+        "SAFE Designated Hospital",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Long Island Jewish Forest Hills",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Long Island Jewish Medical Center",
+      "designations": [
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Long Island Jewish Valley Stream",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Maimonides Medical Center",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Maimonides Midwood Community Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mary Imogene Bassett Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Memorial Hospital of Wm F & Gertrude F Jones",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mercy Hospital",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mercy Hospital of Buffalo",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level 2 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Metropolitan Hospital Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Millard Fillmore Suburban Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mid-Hudson Valley Division of Westchester Medical Center",
+      "designations": [
+        "SAFE Designated Hospital",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Montefiore Med Center - Jack D Weiler Hospital",
+      "designations": [
+        "Level I Adult & Pediatric Trauma Center",
+        "Level 3 Perinatal Center",
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Montefiore Medical Center - Henry & Lucy Moses Div",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Montefiore Mount Vernon Hospital",
+      "designations": [
+        "AIDS Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Montefiore New Rochelle Hospital",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Montefiore Nyack",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mount Sinai Brooklyn",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mount Sinai Hospital",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Mount Sinai Hospital - Mount Sinai Hospital of Queens",
+      "designations": [
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mount Sinai Morningside",
+      "designations": [
+        "AIDS Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Mount Sinai South Nassau",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mount Sinai West",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Mount St. Mary's Hospital and Health Center",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Nassau University Medical Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Level I Adult Trauma Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Nathan Littauer Hospital",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian Brooklyn Methodist Hospital",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "SAFE Designated Hospital",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian David H. Koch Center",
+      "designations": [
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian Hospital - Allen Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian Hospital - Columbia Presbyterian Center",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian Hospital - New York Weill Cornell Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult Trauma Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian Westchester",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian/Hudson Valley Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian/Lower Manhattan Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "New York-Presbyterian/Queens",
+      "designations": [
+        "AIDS Center",
+        "Level I Adult Trauma Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Newark-Wayne Community Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Niagara Falls Memorial Medical Center",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Nicholas H. Noyes Memorial Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "North Central Bronx Hospital",
+      "designations": [
+        "AIDS Center",
+        "Level 2 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "North Shore University Hospital",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Northern Dutchess Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Northern Westchester Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Northwell Greenwich Village Hospital",
+      "designations": [
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "NYU Langone Hospital - Suffolk",
+      "designations": [
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "NYU Langone Hospital-Brooklyn",
+      "designations": [
+        "AIDS Center",
+        "Comprehensive Stroke Center",
+        "Level I Pediatric Trauma Center",
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "NYU Langone Hospital-Long Island",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "NYU Langone Hospitals",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Olean General Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Oneida Health Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Oswego Hospital",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Our Lady of Lourdes Memorial Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Peconic Bay Medical Center",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Phelps Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Plainview Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Putnam Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Queens Hospital Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Richmond University Medical Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "SAFE Designated Hospital",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Rochester General Hospital",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Rome Memorial Hospital, Inc.",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Samaritan Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Samaritan Hospital - Albany Memorial Campus",
+      "designations": [
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Samaritan Medical Center",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Saratoga Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "SBH Health System",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Sisters of Charity Hospital",
+      "designations": [
+        "Level 3 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "SJRH - Park Care Pavilion",
+      "designations": [
+        "AIDS Center"
+      ]
+    },
+    {
+      "hospital": "SJRH - St Johns Division",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "South Brooklyn Health",
+      "designations": [
+        "AIDS Center",
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "South Shore University Hospital",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level 2 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "St Catherine of Siena Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "St Anthony Community Hospital",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "St. Charles Hospital",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "St. Francis Hospital & Heart Center",
+      "designations": [
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "St Johns Episcopal Hospital So Shore",
+      "designations": [
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "St Joseph's Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "St. Joseph's Hospital Health Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "St. Joseph's Medical Center",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "St. Luke's Cornwall Hospital/Newburgh",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Level 2 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "St. Mary's Healthcare",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "St. Peter's Hospital",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Staten Island University Hosp-North",
+      "designations": [
+        "Burn Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Level 3 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Staten Island University Hospital Prince's Bay",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Stony Brook Southampton Hospital",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Stony Brook University Hospital",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Strong Memorial Hospital",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult & Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Syosset Hospital",
+      "designations": [
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "The Unity Hospital of Rochester",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "The University of Vermont Health Network - Alice Hyde Medical Center",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "United Health Services Hospitals Inc. - Wilson Medical Center",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level 3 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "United Memorial Medical Center North Street Campus",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Unity Specialty Hospital",
+      "designations": [
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "University Hospital of Brooklyn",
+      "designations": [
+        "AIDS Center",
+        "Primary Stroke Center",
+        "Regional Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "University Hospital SUNY Health Science Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Comprehensive Stroke Center",
+        "Level I Adult Trauma Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "UPMC Chautauqua at WCA",
+      "designations": [
+        "Level 1 Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "UPSTATE University Hospital at Community General",
+      "designations": [
+        "Level 1 Perinatal Center"
+      ]
+    },
+    {
+      "hospital": "Vassar Brothers Medical Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Westchester Medical Center",
+      "designations": [
+        "AIDS Center",
+        "Burn Center",
+        "Comprehensive Stroke Center",
+        "Level I Pediatric Trauma Center",
+        "Regional Perinatal Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "White Plains Hospital Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Thrombectomy Capable Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Woodhull Medical & Mental Health Center",
+      "designations": [
+        "AIDS Center",
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center",
+        "SAFE Designated Hospital"
+      ]
+    },
+    {
+      "hospital": "Wyckoff Heights Medical Center",
+      "designations": [
+        "Level 3 Perinatal Center",
+        "Primary Stroke Center"
+      ]
+    },
+    {
+      "hospital": "Wynn Hospital",
+      "designations": [
+        "Comprehensive Stroke Center",
+        "Level 2 Perinatal Center"
+      ]
+    }
+  ]
+}

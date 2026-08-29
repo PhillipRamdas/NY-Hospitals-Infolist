@@ -1,10 +1,9 @@
 # NY Medical Center Designation Map
-<<<<<<< HEAD
+
 Website using Google Maps to organize information from New York State Health Profiles 2026.
 =======
 Website using Google Maps to organize information from New York State Health Profiles.
 https://profiles.health.ny.gov/Hospital/designated_center/
->>>>>>> 03c850b3d0713bfc2d074f4258cbddc4bc2cb73d
 
 <img width="1920" height="1080" alt="New York State Hospitals - Stony Brook" src="https://github.com/user-attachments/assets/fbee95e4-4030-4a28-91cd-03d121d67cd7" />
 <img width="1920" height="1080" alt="New York State Hospitals - Maimonides" src="https://github.com/user-attachments/assets/a82b37dd-eb69-4d14-aa01-be97fce5a7be" />

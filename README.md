@@ -1,4 +1,4 @@
-# NY Medical Center Designation Map
+# New York State Designated Centers Map
 
 Website using Google Maps to organize information from New York State Health Profiles 2026.
 https://profiles.health.ny.gov/Hospital/designated_center/
